@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Hugging Face and AutoML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhinit21](https://github.com/abhinit21)
+- 👨‍💻 All of my projects are available at [https://github.com/mengfu188](https://github.com/mengfu188)
 
 - 💬 Ask me about **ML, Python, Problem Solving**
 
