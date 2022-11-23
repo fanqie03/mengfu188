@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 |-|-|
 -->
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/mengfu188?theme=light&font=Arimo&site=cn)
 
 
 ###
@@ -52,6 +51,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aiscript,docker,flask,github,linux,mongodb,mysql,py,redis,vue,java,js,html">
+    <a href="https://leetcode.cn/u/mengfu188/" >
+        <img alt="click here" width="475em" src="https://leetcard.jacoblin.cool/mengfu188?&site=cn" />
+<!--         <img alt="click here" width="475em" src="https://leetcard.jacoblin.cool/mengfu188?ext=heatmap&site=cn" /> -->
+    </a>
 </div>
 
 ###
