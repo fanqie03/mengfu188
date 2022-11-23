@@ -1,27 +1,7 @@
 
 <h3 align="center">Hi there 👋</h3>
 
-<!--
-**mengfu188/mengfu188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-|![](https://github-readme-stats.vercel.app/api?username=mengfu188&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=mengfu188&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
--->
-###
-
-
+<!-- 
 ###
 
 <h1 align="left">
@@ -53,7 +33,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=aiscript,docker,flask,github,linux,mongodb,mysql,py,redis,vue,java,js,html">
     <a href="https://leetcode.cn/u/mengfu188/" >
         <img alt="click here" width="475em" src="https://leetcard.jacoblin.cool/mengfu188?&site=cn" />
-<!--         <img alt="click here" width="475em" src="https://leetcard.jacoblin.cool/mengfu188?ext=heatmap&site=cn" /> -->
     </a>
 </div>
 
@@ -77,5 +56,5 @@ Here are some ideas to get you started:
     alt="mengfu188" height="165em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mengfu188&theme=onedark&hide_border=false" />
 </div>
-
+ -->
 
